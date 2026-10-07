@@ -9,3 +9,11 @@ Abhi Bhardwaj
 # Student
 
 delta - student
+
+# Friends
+
+Ravi 
+
+# Colleagues
+
+Ajad
